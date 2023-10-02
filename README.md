@@ -35,3 +35,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrey5908&show_icons=true&locale=en&layout=compact" alt="shrey5908" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrey5908&show_icons=true&locale=en" alt="shrey5908" /></p>
+
+[![An image of @shrey5908's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shrey5908)](https://holopin.io/@shrey5908)
