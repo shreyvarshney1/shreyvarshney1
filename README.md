@@ -14,11 +14,12 @@
 - ⚡ Fun fact **I like things simple and smooth.**
 
 ### 🙋‍♂️🌐 Connect with me:
+
 <p align="left">
-<a href="https://www.linkedin.com/in/shreyvarshney1" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="shreyvarshney1"/></a>
-<a href="https://instagram.com/shreyvarshney1" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="shreyvarshney1"/></a>
-<a href="https://www.leetcode.com/shreyvarshney1" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="shreyvarshney1"/></a>
-<a href="https://auth.geeksforgeeks.org/user/shreyvarshney1" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="shreyvarshney1"/></a>
+  <a href="https://www.linkedin.com/in/shreyvarshney1" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="shreyvarshney1"/></a>
+  <a href="https://instagram.com/shreyvarshney1" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="shreyvarshney1"/></a>
+  <a href="https://www.leetcode.com/shreyvarshney1" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="shreyvarshney1"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/shreyvarshney1" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="shreyvarshney1"/></a>
 </p>
 
 ## 🛠️ Languages and Tools:
@@ -103,11 +104,11 @@
     <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyvarshney1&bg_color=171515&color=F85D7F&line=FFAC1C&point=AAFF00&area=true&hide_border=true" alt="Shrey's Github Activity Graph"/></p>
   </tr>
   <tr>
-    <th width="300px">
-        <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyvarshney1&title_color=F85D7F&bg_color=171515&text_color=FFAC1C&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Shrey's Most Used Languages"/></p>
+    <th>
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyvarshney1&title_color=F85D7F&bg_color=171515&text_color=FFAC1C&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Shrey's Most Used Languages"/></p>
     </th>
     <th>
-        <p><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shreyvarshney1&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=171515&title_color=F85D7F&icon_color=AAFF00&text_color=FFAC1C" alt="Shrey's Github Stats" /></p>
+      <p><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shreyvarshney1&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=171515&title_color=F85D7F&icon_color=AAFF00&text_color=FFAC1C" alt="Shrey's Github Stats" /></p>
     </th>
   </tr>
 </table>
