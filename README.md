@@ -103,7 +103,7 @@
   <a href="https://www.canva.com/"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></a>
 </p>
 
-### 📊 Stats:
+## 📊 Stats:
 <table>
   <tr>
     <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyvarshney1&bg_color=171515&color=F85D7F&line=FFAC1C&point=AAFF00&area=true&hide_border=true" alt="Shrey's Github Activity Graph"/></p>
