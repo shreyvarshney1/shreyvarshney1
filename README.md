@@ -103,7 +103,7 @@
     <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyvarshney1&bg_color=171515&color=F85D7F&line=FFAC1C&point=AAFF00&area=true&hide_border=true" alt="Shrey's Github Activity Graph"/></p>
   </tr>
   <tr>
-    <th width="500px">
+    <th width="300px">
         <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyvarshney1&title_color=F85D7F&bg_color=171515&text_color=FFAC1C&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Shrey's Most Used Languages"/></p>
     </th>
     <th>
