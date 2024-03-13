@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shrey Varshney</h1>
+<h1 align="center">
+  Hi 👋, I'm Shrey Varshney
+  <p align = "center">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?center=True&lines=Software+Developer;Python+Developer;Web+Developer" alt="shreyvarshney"/>
+  </p>
+</h1>
 <h3 align="center">Embarking on a code odyssey 🚀, I'm a passionate Software Developer 💻, a software virtuoso weaving algorithms, crafting seamless UI tapestries, and orchestrating data ballets with a penchant for precision and innovation. Let's code a visionary tomorrow! 🌐</h3>
 
 - 🌱 I’m currently learning **Rust, Backend ...**
