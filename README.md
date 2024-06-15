@@ -106,14 +106,15 @@
 ## 📊 Stats:
 <table>
   <tr>
-    <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyvarshney1&bg_color=171515&color=F85D7F&line=FFAC1C&point=AAFF00&area=true&hide_border=true" alt="Shrey's Github Activity Graph"/></p>
+    <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyvarshney1&bg_color=020200&color=e41d44&line=e77724&point=5cadc0&area=true&hide_border=true" alt="Shrey's Github Activity Graph"/></p>
   </tr>
   <tr>
     <th>
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyvarshney1&title_color=F85D7F&bg_color=171515&text_color=FFAC1C&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Shrey's Most Used Languages"/></p>
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyvarshney1&title_color=e41d44&bg_color=020200&text_color=e77724&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Shrey's Most Used Languages"/></p>
     </th>
     <th>
-      <p><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shreyvarshney1&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=171515&title_color=F85D7F&icon_color=AAFF00&text_color=FFAC1C" alt="Shrey's Github Stats" /></p>
+<!--       <p><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shreyvarshney1&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=171515&title_color=F85D7F&icon_color=AAFF00&text_color=FFAC1C" alt="Shrey's Github Stats" /></p> -->
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyvarshney1&theme=neon-dark&hide_border=true" alt="Shrey's Streak Stat's"/></p>
     </th>
   </tr>
 </table>
