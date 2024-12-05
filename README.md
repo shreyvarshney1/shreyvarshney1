@@ -27,6 +27,33 @@
   <a href="https://auth.geeksforgeeks.org/user/shreyvarshney1" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="shreyvarshney1"/></a>
 </p>
 
+## 📊 Stats:
+<table>
+  <tr align="center">
+    <td>
+      <a href="https://leetcode.com/shreyvarshney1/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="leet200" height="100" width="100" /></a>
+      <a href="https://leetcode.com/shreyvarshney1/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="leet50" height="100" width="100" /></a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/shreyvarshney1/" target="_blank"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/shreyvarshney1?theme=dark&font=Nunito&ext=heatmap" /></a> 
+    </td>
+  </tr>
+  <tr>
+    <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyvarshney1&bg_color=020200&color=e41d44&line=e77724&point=5cadc0&area=true&hide_border=true" alt="Shrey's Github Activity Graph"/></p>
+  </tr>
+  <tr>
+    <th>
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyvarshney1&title_color=e41d44&bg_color=020200&text_color=e77724&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Shrey's Most Used Languages"/></p>
+    </th>
+    <th>
+<!--       <p><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shreyvarshney1&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=171515&title_color=F85D7F&icon_color=AAFF00&text_color=FFAC1C" alt="Shrey's Github Stats" /></p> -->
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyvarshney1&theme=neon-dark&hide_border=true" alt="Shrey's Streak Stat's"/></p>
+    </th>
+  </tr>
+</table>
+
+[![An image of @shreyvarshney1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shrey5908)](https://holopin.io/@shrey5908)
+
 ## 🛠️ Languages and Tools:
 
 ### 👨‍💻 Programming languages
@@ -103,20 +130,3 @@
   <a href="https://www.canva.com/"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></a>
 </p>
 
-## 📊 Stats:
-<table>
-  <tr>
-    <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyvarshney1&bg_color=020200&color=e41d44&line=e77724&point=5cadc0&area=true&hide_border=true" alt="Shrey's Github Activity Graph"/></p>
-  </tr>
-  <tr>
-    <th>
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyvarshney1&title_color=e41d44&bg_color=020200&text_color=e77724&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Shrey's Most Used Languages"/></p>
-    </th>
-    <th>
-<!--       <p><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shreyvarshney1&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=171515&title_color=F85D7F&icon_color=AAFF00&text_color=FFAC1C" alt="Shrey's Github Stats" /></p> -->
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyvarshney1&theme=neon-dark&hide_border=true" alt="Shrey's Streak Stat's"/></p>
-    </th>
-  </tr>
-</table>
-
-[![An image of @shreyvarshney1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shrey5908)](https://holopin.io/@shrey5908)
