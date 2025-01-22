@@ -35,7 +35,7 @@
       <a href="https://leetcode.com/shreyvarshney1/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="leet50" height="100" width="100" /></a>
     </td>
     <td>
-      <a href="https://leetcode.com/shreyvarshney1/" target="_blank"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/shreyvarshney1?theme=dark&font=Nunito&ext=heatmap" /></a> 
+      <a href="https://leetcode.com/shreyvarshney1/" target="_blank"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/shreyvarshney1?theme=dark&font=Nunito&ext=contest" /></a> 
     </td>
   </tr>
   <tr>
