@@ -48,7 +48,7 @@
     </th>
     <th>
 <!--       <p><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shreyvarshney1&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=171515&title_color=F85D7F&icon_color=AAFF00&text_color=FFAC1C" alt="Shrey's Github Stats" /></p> -->
-<!--       <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyvarshney1&theme=neon-dark&hide_border=true" alt="Shrey's Streak Stat's"/></p> -->
+      <p><img align="center" src="https://github-readme-streak-stats-alpha-seven.vercel.app/?user=shreyvarshney1&theme=neon-dark&hide_border=true" alt="Shrey's Streak Stat's"/></p>
     </th>
   </tr>
 </table>
